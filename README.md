@@ -155,33 +155,61 @@ SCRAPER_API_KEY=your_scrapingbee_key
 
 ## 📌 Folder Structure
 Verdictify/
+
 ├── pages/
+
 │   ├── api/
+
 │   │   └── analyze.js          # API route for review processing
+
 │   ├── _app.js                 # Global App wrapper
+
 │   ├── about.js                # About page
+
 │   └── index.js                # Homepage UI
+
 │
+
 ├── public/
+
 │   └── images/
+
 │       ├── anuroop-profile.jpg
+
 │       ├── icon-github.png
+
 │       ├── icon-instagram.png
+
 │       ├── icon-linkedin.png
+
 │       ├── placeholder.png
+
 │       ├── VerdictifyLOGO.png
+
 │       ├── VerdictifyVECTOR.png
-│       └── VerdictifyVECTOR.svg
+
+│       └── VerdictifyVECTOR.
+
 │
+
 ├── styles/
+
 │   └── globals.css             # Global styles & luxury theme
+
 │
+
 ├── .env.local                  # Environment variables
+
 ├── .gitignore
+
 ├── next.config.js              # Next.js configuration
+
 ├── package.json
+
 ├── package-lock.json
+
 └── README.md
+
 
    
 
