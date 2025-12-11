@@ -108,9 +108,9 @@ Full-stack engineer specialising in UI/UX, AI-based systems, and premium digital
 
 | Platform   | Link |
 |-----------|------|
-| Instagram | [https://instagram.com/**your-handle**](https://www.instagram.com/anuroop.srivastava/) |
-| GitHub    | [https://github.com/**your-username**](https://github.com/AnuroopSrivastava) |
-| LinkedIn  | [https://linkedin.com/in/**your-profile**](https://www.linkedin.com/in/anuroopsrivastava/) |
+| Instagram | (https://www.instagram.com/anuroop.srivastava/) |
+| GitHub    | (https://github.com/AnuroopSrivastava) |
+| LinkedIn  | (https://www.linkedin.com/in/anuroopsrivastava/) |
 
 ---
 
@@ -157,7 +157,6 @@ SCRAPER_API_KEY=your_scrapingbee_key
 /pages
 
    /api
-   
       analyze.js   → AI engine
       
    index.js        → Main UI
@@ -168,16 +167,11 @@ SCRAPER_API_KEY=your_scrapingbee_key
 /public
 
    /images
-   
       VerdictifyLOGO.png
-      
       VerdictifyVECTOR.png
-      
       anuroop-profile.jpg
-      
       icons...
       
-
 /styles
 
    global.css      → Luxury UI theme
