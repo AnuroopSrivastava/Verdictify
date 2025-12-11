@@ -79,13 +79,13 @@ Fixes include:
 - Luxury modal system  
 - Premium splash loader  
 
-### 📊 Data Visualization
+### 📊 Data Visualisation
 Powered by **Chart.js**:
 - Doughnut sentiment chart  
 - Star distribution bar chart  
 
 ### 📱 Responsive & Mobile-Friendly
-Optimized for:
+Optimised for:
 - Mobile  
 - Tablet  
 - Desktop  
@@ -100,7 +100,7 @@ Includes:
 ## 👨‍💻 About the Developer
 
 **Developed by:** *Anuroop Srivastava*  
-Full-stack engineer specializing in UI/UX, AI-based systems, and premium digital experiences.
+Full-stack engineer specialising in UI/UX, AI-based systems, and premium digital experiences.
 
 ---
 
@@ -108,9 +108,9 @@ Full-stack engineer specializing in UI/UX, AI-based systems, and premium digital
 
 | Platform   | Link |
 |-----------|------|
-| Instagram | https://instagram.com/**your-handle** |
-| GitHub    | https://github.com/**your-username** |
-| LinkedIn  | https://linkedin.com/in/**your-profile** |
+| Instagram | [https://instagram.com/**your-handle**](https://www.instagram.com/anuroop.srivastava/) |
+| GitHub    | [https://github.com/**your-username**](https://github.com/AnuroopSrivastava) |
+| LinkedIn  | [https://linkedin.com/in/**your-profile**](https://www.linkedin.com/in/anuroopsrivastava/) |
 
 ---
 
@@ -118,7 +118,7 @@ Full-stack engineer specializing in UI/UX, AI-based systems, and premium digital
 
 ### Frontend
 - Next.js (React)
-- Chart.js visualizations
+- Chart.js visualisations
 - Custom Luxury UI Framework (CSS)
 - Particle engine
 
@@ -142,7 +142,7 @@ git clone https://github.com/yourname/verdictify.git
 cd verdictify
 npm install
 npm run dev
-
+```
 ---
 
 ## 🔑 Environment Variables
