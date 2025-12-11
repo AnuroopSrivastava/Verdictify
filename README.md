@@ -155,20 +155,33 @@ SCRAPER_API_KEY=your_scrapingbee_key
 
 ## 📌 Folder Structure
 /pages
+
    /api
+   
       analyze.js   → AI engine
+      
    index.js        → Main UI
+   
    about.js        → Developer profile page
+   
 
 /public
+
    /images
+   
       VerdictifyLOGO.png
+      
       VerdictifyVECTOR.png
+      
       anuroop-profile.jpg
+      
       icons...
+      
 
 /styles
+
    global.css      → Luxury UI theme
+   
 
 
 ---
