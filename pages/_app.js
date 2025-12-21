@@ -8,8 +8,8 @@ export default function App({ Component, pageProps }) {
         {/* ✅ FAVICON */}
         <link
           rel="icon"
-          type="image/svg+xml"
-          href="/images/VerdictifyVECTOR.svg"
+          type="image/png"
+          href="/images/VerdictifyVECTOR.png"
         />
 
         {/* ✅ APP TITLE */}
